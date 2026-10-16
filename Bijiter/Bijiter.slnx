@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bijiter.vcxproj" Id="ea1b861b-6af5-466d-8a87-7af4ff9a1bfc" />
+</Solution>

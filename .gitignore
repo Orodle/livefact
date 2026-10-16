@@ -1,0 +1,33 @@
+# Python 相关忽略（LiveFact）
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+.env
+*.log
+output/
+runs/
+
+# Visual Studio C++ Bijiter 项目
+.vs/
+*.ipch
+*.suo
+*.vcxproj.user
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+build/
+x64/
+x86/
+Debug/
+Release/
+
+# 其他杂项
+.DS_Store
+Thumbs.db
+.idea/
